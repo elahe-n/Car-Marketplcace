@@ -1,3 +1,18 @@
+## Car Marketplace with Recat and FireBase
+# features:
+1- User Management (Sign-up and sign-in user, Forget Password, Login and sign up with Google, Change user Info)
+2- Users can add listings and edit and delete just their listings 
+3- Users can get other listingsseller's info and send email
+4- Listings are categorizing according their type, used car or new 
+5- Listings that have offers attribute are shown in Offers page (They must input discounted price and it must be lower than regular price)
+# How to use:
+1- Sign-up and sign-in with clicking 'Profile' in navbar
+2- Add listing or edit/delete user's listings in profile page after sign-in
+3- Choose New or used car category in Explore page 
+4- Show used or new cars and go to the listing page by clicking on each car to see all information and contact to seller (if the user is not the car seller)
+5- Show offers in offer page and see each car information and show all information by clicking on each car
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
