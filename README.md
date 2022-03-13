@@ -1,19 +1,19 @@
 # Car Marketplace with Recat and Firebase
 ## Features:
-1- User management and store users in firebase (Sign-up and sign-in user, Forget Password, Login and sign up with Google, Change user Info)
-2- Users can add listings
-3- Users can edit and delete their listings 
-3- Users can connect to other listings' sellers
-4- Listings are categorizing according their type, used car or new 
-5- Listings that have offer attribute are shown in Offers page (They must input discounted price and it must be lower than regular price)
-6- All information store,edit and delete in Firebase
-7- Responsive design (Mobile first layout)
+1- User management and store users in firebase (Sign-up and sign-in user, Forget Password, Login and sign up with Google, Change user Info)\
+2- Users can add listings\
+3- Users can edit and delete their listings \
+3- Users can connect to other listings' sellers\
+4- Listings are categorizing according their type, used car or new \
+5- Listings that have offer attribute are shown in Offers page (They must input discounted price and it must be lower than regular price)\
+6- All information store,edit and delete in Firebase\
+7- Responsive design (Mobile first layout)\
 ## How to use:
-1- Sign-up and sign-in with clicking 'Profile' in navbar
-2- Add listing or edit/delete user's listings in profile page after sign-in
-3- Choose new or used car category in Explore page 
-4- Show used or new cars and go to the listing page by clicking on each car to see all information and contact to seller (if the user is not the car's seller)
-5- Show offers in offer page and see each car information and show all information by clicking on each car
+1- Sign-up and sign-in with clicking 'Profile' in navbar\
+2- Add listing or edit/delete user's listings in profile page after sign-in\
+3- Choose new or used car category in Explore page \
+4- Show used or new cars and go to the listing page by clicking on each car to see all information and contact to seller (if the user is not the car's seller)\
+5- Show offers in offer page and see each car information and show all information by clicking on each car\
 
 
 # Getting Started with Create React App
