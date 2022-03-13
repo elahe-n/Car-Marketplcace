@@ -1,11 +1,11 @@
-## Car Marketplace with Recat and FireBase
-# features:
+# Car Marketplace with Recat and FireBase
+## features:
 1- User Management (Sign-up and sign-in user, Forget Password, Login and sign up with Google, Change user Info)
 2- Users can add listings and edit and delete just their listings 
 3- Users can get other listingsseller's info and send email
 4- Listings are categorizing according their type, used car or new 
 5- Listings that have offers attribute are shown in Offers page (They must input discounted price and it must be lower than regular price)
-# How to use:
+## How to use:
 1- Sign-up and sign-in with clicking 'Profile' in navbar
 2- Add listing or edit/delete user's listings in profile page after sign-in
 3- Choose New or used car category in Explore page 
