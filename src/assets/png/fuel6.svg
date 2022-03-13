@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+<desc>Created with Fabric.js 1.7.22</desc>
+<defs>
+</defs>
+<g transform="translate(128 128) scale(0.72 0.72)" style="">
+	<g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(-175.05 -175.05000000000004) scale(3.89 3.89)" >
+	<path d="M 72.359 39.132 c 0.283 -0.536 -0.106 -1.179 -0.711 -1.179 H 52.437 h -7.161 c -0.472 0 -0.843 -0.405 -0.801 -0.875 l 3.218 -36.2 c 0.078 -0.875 -1.102 -1.223 -1.512 -0.446 L 19.568 50.868 c -0.283 0.536 0.106 1.179 0.711 1.179 H 39.49 h 7.161 c 0.472 0 0.843 0.405 0.801 0.875 l -3.218 36.2 c -0.078 0.875 1.102 1.223 1.512 0.446 L 72.359 39.132 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+	<path d="M 61.59 85.846 c -0.779 0 -1.521 -0.459 -1.843 -1.222 c -0.431 -1.018 0.046 -2.191 1.063 -2.621 c 15.076 -6.375 24.817 -21.07 24.817 -37.437 c 0 -18.515 -12.5 -34.688 -30.398 -39.329 c -1.069 -0.277 -1.711 -1.369 -1.434 -2.438 c 0.276 -1.069 1.371 -1.711 2.438 -1.434 c 19.662 5.098 33.395 22.863 33.395 43.201 c 0 17.977 -10.7 34.119 -27.259 41.121 C 62.113 85.794 61.85 85.846 61.59 85.846 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+	<path d="M 37.26 88.491 c -0.12 0 -0.241 -0.011 -0.363 -0.033 C 15.733 84.576 0.373 66.116 0.373 44.566 c 0 -18.924 11.99 -35.849 29.834 -42.116 c 1.044 -0.363 2.184 0.183 2.55 1.225 s -0.182 2.184 -1.225 2.55 c -16.245 5.705 -27.16 21.114 -27.16 38.342 c 0 19.62 13.982 36.424 33.246 39.958 c 1.086 0.199 1.806 1.241 1.606 2.328 C 39.048 87.816 38.207 88.491 37.26 88.491 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+</g>
+</g>
+</svg>

@@ -1,0 +1,28 @@
+{
+	"listings": [
+		{
+			"name": "2018 Toyota Corolla",
+			"type": "used",
+			"userRef": "ID OF A USER",
+			"make": "Toyota",
+			"model": "Corolla",
+			"year": 2018,
+			"color": "white",
+			"milage": 100,
+			"bodyType": "sedan",
+			"fuelType": "sedan",
+			"transmission": "Automatic",
+			"offer": true,
+			"regularPrice": 2500,
+			"discountedPrice": 2000,
+			"description": "Only used for school and Grocery. always parked",
+			"location": "8601 West Peachtree St Stratford, CT 06614",
+			"geolocation": {
+				"lat": "41.205590",
+				"lng": "-73.150530"
+			},
+			"imageUrls": [],
+			"timestamp": "00:00:00"
+		}
+	]
+}
